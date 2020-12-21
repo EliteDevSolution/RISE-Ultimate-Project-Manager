@@ -1,3 +1,5 @@
 # RISE-Ultimate-Project-Manager
-Help
+
+[Help]
+
 https://elitedevsolution.github.io/RISE-Ultimate-Project-Manager/documentation/
